@@ -1,0 +1,21 @@
+h1, h3 {
+    font-family: 'Raleway', serif;
+}
+
+p, dt, dd {
+    font-family: 'Raleway', serif;
+    font-size: 15px;
+}
+
+.venue {
+    font-style: italic;
+}
+
+.page-body {
+    padding-bottom: 50px;
+}
+
+#photo {
+    width: 180px;
+}
+
